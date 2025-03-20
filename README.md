@@ -1,2 +1,5 @@
 # Assignment2
-Assignment 2 of Macro Comp Tools 25'
+Usagi Group
+1. Hu Rongxin (/RongxinHu)
+2. Nguyen Minh Ngan (/mngan911)
+
